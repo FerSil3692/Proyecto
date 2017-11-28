@@ -1,0 +1,18 @@
+.contenedor_video {
+	display:block;
+	position:relative;
+	max-width:900px;
+	padding-left:0px;
+	padding-right:148px;
+	margin:0px auto 0px;
+}
+
+.video_contenedor {
+	display:block;
+	position:relative;
+	margin:0 auto;
+}
+
+.lista_videos {
+	display:none;
+}
